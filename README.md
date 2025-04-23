@@ -32,6 +32,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -69,6 +70,7 @@ i = 0;
 return 0;
     
 }
+```
 # OUTPUT
 ![Screenshot 2025-04-23 142224](https://github.com/user-attachments/assets/c27ac5dd-559b-4b80-ac86-39b9a062db17)
 
